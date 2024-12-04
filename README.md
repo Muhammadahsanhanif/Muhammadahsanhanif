@@ -8,15 +8,17 @@
 
 - 🌱 I’m currently learning **EXPRESS IN M. E .R .N**
 
+- 👨‍💻 All of my projects are available at [https://majestic-youtiao-d624cd.netlify.app](https://majestic-youtiao-d624cd.netlify.app)
+
 - 📫 How to reach me **ahsanhanif3739@gmail.com**
 
 - ⚡ Fun fact **I AM FUUNY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahsan hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan hanif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahsan-hanif-47ab13320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahsan-hanif-47ab13320/" height="30" width="40" /></a>
 <a href="https://fb.com/ahsan hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahsan hanif" height="30" width="40" /></a>
-<a href="https://instagram.com/they call me hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="they call me hassan" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/they_calll_me_hassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/they_calll_me_hassan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
